@@ -1,0 +1,7 @@
+# Excel temporary lock files created while a document is open
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+.DS_Store
+Thumbs.db
